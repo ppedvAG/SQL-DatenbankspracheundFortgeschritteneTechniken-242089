@@ -35,10 +35,10 @@ GO 20000
 --Zeit Messen
 
 
-dbcc shwocontig('')
+dbcc showcontig('')
 
 
-
+--besser wäre der hier.. kommt aber später nochmal...
 select * from sys.dm_db_index_physical_stats(db_id(), object_id(''), NULL, NULL, 'detailed')
 GO
 
@@ -57,15 +57,11 @@ select 'XY'
 GO 20000
 --Zeit Messen
 
---veraltet
-dbcc showcontig('')
 
-
---besser
-select * from sys.dm_db_index_physical_stats(db_id(), object_id(''), NULL, NULL, 'detailed')
-GO
 
 
 
 --Warum hat die Tabelle t1 160MB , bei ca 80MB Daten
 --Warum liest man aus der Tabelle KU 57000, wenn der dbcc nur 41000 Seiten angibt
+
+--Weil die Seiten wg char(4100) nicht voller gemacht werden können...
