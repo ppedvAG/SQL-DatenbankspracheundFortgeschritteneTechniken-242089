@@ -1,6 +1,6 @@
 USE [Northwind]
 GO
-insert into ku2
+insert into kundeumsatz
 SELECT [CustomerID]
       ,[CompanyName]
       ,[ContactName]
@@ -20,7 +20,7 @@ SELECT [CustomerID]
       ,[Quantity]
       ,[ProductName]
       ,[UnitsInStock]
-    FROM [dbo].[ku2]
+    FROM [dbo].[kundeumsatz2]
 
 GO
 

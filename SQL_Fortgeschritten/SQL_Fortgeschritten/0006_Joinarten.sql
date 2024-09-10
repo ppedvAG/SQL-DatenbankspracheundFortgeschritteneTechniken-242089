@@ -25,7 +25,7 @@ set statistics io, time on
   select * from customers c inner loop join orders o 
  on c.CustomerID=o.CustomerID
 
---sql kann sich anpassen  adaptiv join--< entscheeidet
+--sql kann sich anpassen  adaptiv join--< entscheidet
 --im gleichem plan zwischen hash und Loop join
 
  --
