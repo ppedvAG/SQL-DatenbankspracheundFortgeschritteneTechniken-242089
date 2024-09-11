@@ -148,35 +148,59 @@
           <AssociatedConnUserName />
           <FullPath>0605_Functions.sql</FullPath>
         </FileNode>
-        <FileNode Name="GRAPH.sql">
+        <FileNode Name="0700_TemporalTables_1_Aktivieren.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>GRAPH.sql</FullPath>
+          <FullPath>0700_TemporalTables_1_Aktivieren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0701_TemporalTables_2_Demo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0701_TemporalTables_2_Demo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0800_GRAPH.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0800_GRAPH.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0900_TabVariablen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0900_TabVariablen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1000_ Pläne Case Sensitive.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1000_ Pläne Case Sensitive.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1001_DDL Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1001_DDL Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1002_Bad View.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1002_Bad View.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1010_WindowFunction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1010_WindowFunction.sql</FullPath>
         </FileNode>
         <FileNode Name="SQL Server 2022 Diagnostic Information Queries.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQL Server 2022 Diagnostic Information Queries.sql</FullPath>
-        </FileNode>
-        <FileNode Name="TabVariablen.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>TabVariablen.sql</FullPath>
-        </FileNode>
-        <FileNode Name="TemporalTables_1_Aktivieren.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>TemporalTables_1_Aktivieren.sql</FullPath>
-        </FileNode>
-        <FileNode Name="TemporalTables_2_Demo.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>TemporalTables_2_Demo.sql</FullPath>
         </FileNode>
         <FileNode Name="Z_Spieltabelle.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>

@@ -2,6 +2,20 @@ DECLARE @tvTableD TABLE
     ( Column1   INT   NOT NULL ,  
       Column2   CHAR(10) );
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CREATE TYPE dbo.typeTableD  
     AS TABLE  
     (  
